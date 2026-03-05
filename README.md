@@ -251,7 +251,7 @@ From this project you will learn:
 
 Data Engineer | Python | SQL | Azure | PySpark
 
-🔗 LinkedIn
-🔗 GitHub
+🔗 LinkedIn - https://www.linkedin.com/in/rujali-nagbhidkar/
+🔗 GitHub - https://github.com/rujalinagbhidkar/Azure-Scalable-Data-Engineering-Analytics-Pipeline
 
 ---
