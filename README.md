@@ -1,16 +1,8 @@
-Below is a **professional GitHub README template** based on the video you shared. The project demonstrates an **end-to-end Azure Data Engineering pipeline using Azure Data Factory, Data Lake, Databricks, PySpark, and Synapse Analytics**. ([YouTube][1])
-
-I designed it so it **looks attractive on GitHub**, includes **architecture diagrams, icons, sections, and flow explanations** (similar to top data engineering GitHub repos).
-
-You can copy this directly into `README.md`.
-
----
-
-# 🚀 Azure End-to-End Data Engineering Project
+# Azure End-to-End Data Engineering Project
 
 An **End-to-End Data Engineering Pipeline** built using **Azure Data Factory, Azure Data Lake Gen2, Azure Databricks, PySpark, and Azure Synapse Analytics**.
 
-This project demonstrates how raw data is ingested, transformed, and loaded into a data warehouse for analytics using the **Medallion Architecture (Bronze → Silver → Gold)**. ([YouTube][1])
+This project demonstrates how raw data is ingested, transformed, and loaded into a data warehouse for analytics using the **Medallion Architecture (Bronze → Silver → Gold)**.
 
 ---
 
